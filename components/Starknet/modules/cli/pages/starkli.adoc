@@ -1,22 +1,4 @@
-[id="legacy"]
-= Legacy Starknet CLI reference
 
-[WARNING]
-====
-The Starknet CLI is deprecated. Instead, use xref:tools:devtools.adoc#starkli[StarkLi CLI].
-====
-
-[id="basic_command_line_syntax"]
-== Basic command line syntax
-
-To enter a Starknet command, use the following syntax:
-
-[source,bash]
-----
-$ starknet <command> <options>
-----
-
-Where:
 
 `<command>` represents a single command that executes an operation on Starknet.
 
